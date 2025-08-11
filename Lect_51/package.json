@@ -1,0 +1,27 @@
+{
+  "name": "spotifyclone",
+  "version": "1.0.0",
+  "description": "this is my spotify",
+  "keywords": [
+    "spotify",
+    "music"
+  ],
+  "homepage": "https://github.com/Abhi-hash15/Web-Development#readme",
+  "bugs": {
+    "url": "https://github.com/Abhi-hash15/Web-Development/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi-hash15/Web-Development.git"
+  },
+  "license": "ISC",
+  "author": "Abhinav",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "slugify": "^1.6.6"
+  }
+}
