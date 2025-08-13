@@ -30,7 +30,7 @@ app.get('/blog/:slug', (req, res) => {
     res.send(`hello ${req.params.slug}`)
 })
 
-// app.get('/blog/intro-to-js', (req, res) => {
+// // app.get('/blog/intro-to-js', (req, res) => {
 //     // logic to fetch intro to js from the db
 //     res.send('Hello intro-to-js!')
 // })
